@@ -1,0 +1,13 @@
+body {
+  font-family: cursive;
+  font-size: 30px;
+  color:black;
+  margin:10px;
+  background-image: url(../img/birdphoto.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+p.intro::first-letter {
+  font-size: 100px;
+}
